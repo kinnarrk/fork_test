@@ -38,6 +38,11 @@ git merge upstream/master
 git checkout master
 ```
 
+07.5. Push the latest master to origin so that it can be in sync with upstream
+```
+git push origin master
+```
+
 08. Create a new branch named newfeature (give your branch its own simple informative name) and checkout (This will be by default fast-forward branch)
 ```
 git checkout -b newfeature
