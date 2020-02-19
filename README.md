@@ -48,7 +48,7 @@ git push origin master
 git checkout -b newfeature
 ```
 
-** Now do all the changes you need **
+**Now do all the changes you need**
 
 10 Add all and commit
 ```
