@@ -48,6 +48,14 @@ git push origin master
 git checkout -b newfeature
 ```
 
+** Now do all the changes you need **
+
+09 Add all and commit
+```
+git add --all
+git commit -am "Your commit message"
+```
+
 09. (IMP) Fetch upstream master and merge with your repo's master branch (this step is really important if you don't want conflicts while you push)
 ```
 git fetch upstream
